@@ -1,0 +1,6 @@
+{
+  "name": "ApexCare Health System",
+  "description": "Comprehensive healthcare portal providing 24/7 emergency medical helpline, quick care triage, regional medical facilities directory, patient portal, and clinic contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
